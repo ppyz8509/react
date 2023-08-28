@@ -1,0 +1,7 @@
+.diaalogbox{
+ width: 20cm;
+    padding:  20px 6px 4px;
+    color: rgb(234, 0, 0);
+    background-color : rgb(28, 160, 242);
+    border: rgb(13, 232, 159) 20px solid;
+}
